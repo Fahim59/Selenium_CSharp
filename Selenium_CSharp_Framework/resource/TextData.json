@@ -1,0 +1,20 @@
+﻿{
+  "login": [
+    {
+      "userType": "admin",
+      "personType": "Consultant"
+    },
+    {
+      "userType": "admin",
+      "personType": "Student"
+    }
+  ],
+  "registration": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john@test.com",
+      "phone": "01711223344"
+    }
+  ]
+}
