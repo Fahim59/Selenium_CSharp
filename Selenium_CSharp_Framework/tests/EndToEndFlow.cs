@@ -20,11 +20,9 @@ namespace Selenium_CSharp_Framework.tests
             string userName = EnvConfig.Username;
             string password = EnvConfig.Password;
 
-            _loginPage.Login(userName, password, "admin", "Consultanty");
+            _loginPage.Login(userName, password, "admin", "Consultant");
 
             _loginPage.VisibilityOfElements();
-
-            _extent.AddSystemInfo("OS", Environment.OSVersion.ToString());
         }
 
         //------------------------------------------Using TestCase----------------------------------------------------------//
