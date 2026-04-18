@@ -2,7 +2,7 @@
 using OpenQA.Selenium.Support.UI;
 using SeleniumExtras.WaitHelpers;
 
-namespace CSharpSeleniumFramework.pages
+namespace Selenium_CSharp_Framework.pages
 {
     public class BasePage
     {
