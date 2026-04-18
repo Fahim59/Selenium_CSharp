@@ -1,13 +1,13 @@
 ﻿using AventStack.ExtentReports;
 using AventStack.ExtentReports.Reporter;
-using CSharpSeleniumFramework.utilities;
+using Selenium_CSharp_Framework.utilities;
 using NUnit.Framework.Interfaces;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Firefox;
 using WebDriverManager.DriverConfigs.Impl;
 
-namespace CSharpSeleniumFramework.factory
+namespace Selenium_CSharp_Framework.factory
 {
     public abstract class DriverFactory
     {
