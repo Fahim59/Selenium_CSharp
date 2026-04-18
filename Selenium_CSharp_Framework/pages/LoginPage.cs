@@ -1,6 +1,6 @@
 ﻿using OpenQA.Selenium;
 
-namespace CSharpSeleniumFramework.pages
+namespace Selenium_CSharp_Framework.pages
 {
     internal class LoginPage(IWebDriver driver) : BasePage(driver)
     {
